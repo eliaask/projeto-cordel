@@ -24,7 +24,7 @@ html, body {
 }
 
 header {
-    background-color: black;
+    background-color: #0D00FA;
     color: white;
     text-align: center;
 }
@@ -79,7 +79,7 @@ section.imagem {
 section.imagem > p {
     display: inline-block;
     padding: 5px;
-    background-color: rgba(0, 0, 0, 0.511);
+    background-color: rgba(0, 0, 0, 0.323);
     text-shadow: 1px 1px 0px black;
 }
 
@@ -93,7 +93,7 @@ section#img02 {
 }
 
 footer {
-    background-color: black;
+    background-color:#0D00FA;
     color: white;
     text-align: center;
     padding: 10px;
